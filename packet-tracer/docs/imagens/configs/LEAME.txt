@@ -1,1 +1,0 @@
-esta página contém as configurações aplicadas nos dispositivos de rede no packet tracer
