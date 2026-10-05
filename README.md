@@ -63,10 +63,4 @@ Foram realizados testes no terminal dos computadores para validar o roteamento e
 ![Testes de Ping e ACL](docs/imagens/testes-ping.png)
 ![Acesso Intranet Web](docs/imagens/site-intranet.png)
 
----
 
-## 🛠️ Como Executar este Projeto
-
-1. Clone ou faça o download deste repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/simulacao-rede-corporativa-cisco.git](https://github.com/SEU-USUARIO/simulacao-rede-corporativa-cisco.git)
